@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ondenot-newcrew.github.io/ondenot/sitemap.xml
