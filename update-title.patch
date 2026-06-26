@@ -1,0 +1,50 @@
+*** Begin Patch
+*** Update File: index.html
+@@
+-    <meta property="og:site_name" content="ondenot.be">
++    <meta property="og:site_name" content="Yann Christian ONDENOT">
+@@
+-                <div class="logo">
+-                    <h1>ondenot.be</h1>
+-                </div>
++                <div class="logo">
++                    <h1>Yann Christian ONDENOT</h1>
++                </div>
+@@
+-                <div class="footer-section">
+-                    <h4>ondenot.be</h4>
+-                    <p>Consultant Qualité & Ingénieur QSE — Libreville, Gabon</p>
+-                </div>
++                <div class="footer-section">
++                    <h4>Yann Christian ONDENOT</h4>
++                    <p>Consultant Qualité & Ingénieur QSE — Libreville, Gabon</p>
++                </div>
+@@
+-                <p>&copy; 2026 ondenot.be. Tous droits réservés.</p>
++                <p>&copy; 2026 Yann Christian ONDENOT. Tous droits réservés.</p>
+*** End Patch
+
+*** Begin Patch
+*** Update File: README.md
+@@
+-# ondenot.be - Site Web Professionnel
++# Yann Christian ONDENOT - Site Web Professionnel
+*** End Patch
+
+*** Begin Patch
+*** Update File: .github/copilot-instructions.md
+@@
+-# Copilot Instructions pour ondenot.be
+-
+-Ce fichier contient les instructions personnalisées pour le développement du site web ondenot.be.
++# Copilot Instructions pour Yann Christian ONDENOT
++
++Ce fichier contient les instructions personnalisées pour le développement du site web Yann Christian ONDENOT.
+@@
+-## 🎯 Objectif du Projet
+-
+-Créer un site web professionnel pour ondenot.be présentant :
++## 🎯 Objectif du Projet
++
++Créer un site web professionnel pour Yann Christian ONDENOT présentant :
+*** End Patch

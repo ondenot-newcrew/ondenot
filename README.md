@@ -1,4 +1,4 @@
-# ondenot.be - Site Web Professionnel
+# Yann Christian ONDENOT - Site Web Professionnel
 
 Un site web moderne et responsive présentant un profil professionnel avec sections de prestations, galerie photo et contact.
 
